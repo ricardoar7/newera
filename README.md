@@ -12,7 +12,7 @@ cd newera && mkdir build && cd build && cmake ..
 ```
 
 ```console
-cd newera && mkdir build && cd build && cmake ..
+make
 ```
 
 # What is Sabrehaven
