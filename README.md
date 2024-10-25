@@ -1,3 +1,20 @@
+# Ubuntu 22.04 Instructions
+```console
+sudo apt install git cmake build-essential libluajit-5.1-dev libmariadb-dev-compat libboost-date-time-dev libboost-filesystem-dev libboost-system-dev libboost-iostreams-dev libpugixml-dev libgmp3-dev libcrypto++-dev libfmt-dev libjsoncpp-dev
+```
+
+```console
+git clone https://github.com/ricardoar7/newera.git
+```
+
+```console
+cd newera && mkdir build && cd build && cmake ..
+```
+
+```console
+cd newera && mkdir build && cd build && cmake ..
+```
+
 # What is Sabrehaven
 I wish you the best use of the Sabrehaven server and its features. Server is based on the Nostalrius fork which uses original cipsoft resources which were leaked- however I would say this is super expansion features wise than Nostalrius fork I have started with and there we have lots of old crash bugs fixed like aleta sio regex crash bug, creatures talk for no spectators crash bug fix and etc. All in all, I will try to make a little documentation for you. To start with, take a look at the Good reads for you about my and Sabrehaven life:
 - https://otland.net/threads/sabrehaven-7-8-project-discussion.267527/ [My journey started from this discussion thread]
